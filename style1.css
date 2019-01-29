@@ -1,0 +1,21 @@
+body {
+	text-align: center;
+	background-image: url(bgimage.jpg);
+	background-size: cover;
+}
+h1 {
+	color: green;
+	border: 5px dashed black;
+}
+.k {
+	text-align: center;
+	background-color: white;
+	display: list-item;
+}
+
+#j {
+	color: green;
+}
+table {
+	border: 5px solid green;
+}
